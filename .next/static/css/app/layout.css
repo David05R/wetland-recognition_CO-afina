@@ -797,9 +797,6 @@ video {
 .p-24 {
   padding: 6rem;
 }
-.font-poppins {
-  font-family: var(--font-poppins), sans-serif;
-}
 @keyframes enter {
 
   from {
