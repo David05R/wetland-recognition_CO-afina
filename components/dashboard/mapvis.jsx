@@ -52,6 +52,17 @@ const MapVis = ({ view, data, wetland, filters }) => {
     }
   };
 
+  const getMarkerColor = (zoneType) => {
+    switch(zoneType) {
+      case "Protected Area":
+        return "text-green-500";
+      case "Urban Area":
+        return "text-blue-500";
+      default:
+        return "text-yellow-500";
+    }
+  };
+
   return (
     <div className="w-full h-full rounded-2xl overflow-hidden">
       {view === "Navigation"
@@ -78,7 +89,7 @@ const MapVis = ({ view, data, wetland, filters }) => {
                       onClick={() =>
                         handleMarkerClick(item.Longitude, item.Latitude)}
                     >
-                      <MapPinIcon className="text-error-dark" size={32} />
+                      <MapPinIcon className={getMarkerColor(item["Zone type"])} size={32} />
                     </Marker>
                   )
                 )}
