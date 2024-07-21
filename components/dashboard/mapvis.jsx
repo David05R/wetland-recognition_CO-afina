@@ -1,8 +1,10 @@
 "use client";
 import { useState } from "react";
-import Map from "react-map-gl";
+import Map, {Marker} from "react-map-gl";
+import 'mapbox-gl/dist/mapbox-gl.css';
 
-const MapVis = ({ view }) => {
+const MapVis = ({ view, data}) => {
+
   return (
     <div className="w-full h-full rounded-2xl overflow-hidden">
       {view === "Navigation" ? (
@@ -16,7 +18,17 @@ const MapVis = ({ view }) => {
             }}
             style={{ width: "100%", height: "100%" }}
             mapStyle="mapbox://styles/mapbox/satellite-streets-v11"
-          />
+          >
+            {data && data.map((item, index) => (
+              <Marker
+                className="cursor-pointer"
+                key={index}
+                latitude={item.Latitude}
+                longitude={item.Longitude}
+              >
+              </Marker>
+            ))}
+          </Map>
         </div>
       ) : (
         <iframe

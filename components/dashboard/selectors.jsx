@@ -8,10 +8,12 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { MapIcon, ViewIcon, WavesIcon } from "lucide-react";
 
-const Selectors = ({ onViewChange }) => {
+const Selectors = ({ onViewChange, onWetlandChange, data}) => {
   const [country, setCountry] = useState(null);
   const [wetland, setWetland] = useState(null);
+  const [selectedWetland, setSelectedWetland] = useState(null);
   const [view, setView] = useState("Navigation");
+  console.log('the selected wetland in selector', selectedWetland);
 
   const handleCountryChange = event => {
     setCountry(event.target.textContent);
@@ -25,6 +27,11 @@ const Selectors = ({ onViewChange }) => {
     const newView = view === "Navigation" ? "Timelapse" : "Navigation";
     setView(newView);
     onViewChange(newView);
+  };
+
+  const handleWetlandSelection = (name, lon, lat) => {
+    setSelectedWetland({ name, lon, lat });
+    onWetlandChange({ name, lon, lat });
   };
 
   return (
@@ -67,18 +74,22 @@ const Selectors = ({ onViewChange }) => {
                 </span>}
           </DropdownMenuTrigger>
           <DropdownMenuContent className="font-poppins bg-surface-dark text-on-surface-dark outline-none border-outline-variant-dark">
-            <DropdownMenuItem onClick={handleWetlandChange}>
-              Colombia
-            </DropdownMenuItem>
-            <DropdownMenuItem className="text-on-surface-variant-dark/50 cursor-not-allowed">
-              Venezuela (Próximamente)
-            </DropdownMenuItem>
-            <DropdownMenuItem className="text-on-surface-variant-dark/50 cursor-not-allowed">
-              Ecuador (Próximamente)
-            </DropdownMenuItem>
-            <DropdownMenuItem className="text-on-surface-variant-dark/50 cursor-not-allowed">
-              Perú (Próximamente)
-            </DropdownMenuItem>
+            {data &&
+              data.map((item, index) =>
+                <DropdownMenuItem
+                  key={index}
+                  onClick={() => {
+                    handleWetlandChange;
+                    handleWetlandSelection(
+                      item["Site name"],
+                      item.Longitude,
+                      item.Latitude
+                    );
+                  }}
+                >
+                  {item["Site name"]}
+                </DropdownMenuItem>
+              )}
           </DropdownMenuContent>
         </DropdownMenu>
       </div>

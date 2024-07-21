@@ -8,7 +8,7 @@ const Layout = ({children}) => {
         <div id='navRailContainer' className='w-24 h-full'>
             <NavRail />
         </div>
-        <div className='w-full flex p-3 bg-background-dark'>
+        <div className='w-full flex p-3 bg-background'>
             {children}
         </div>
     </div>
