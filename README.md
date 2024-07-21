@@ -38,7 +38,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a>
     <img src="logo.png" alt="Logo" width="180" height="180">
   </a>
 
@@ -112,7 +112,11 @@
 <!-- ABOUT THE PROJECT -->
 ##  Sobre el proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <a>
+    <img src="img.png" alt="Logo" width="1000" height="500">
+  </a>
+</div>
 
 Este proyecto tiene como objetivo generar conciencia ciudadana sobre los humedales en Colombia, sus posibles cambios y los factores de riesgo en su preservación. La aplicación digital permite la identificación de estas zonas, su ubicación respecto a áreas de actividad humana o zonas de protección ambiental y la visualización de su transformación en el tiempo.
 
