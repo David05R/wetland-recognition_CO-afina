@@ -33,13 +33,7 @@
 [![Share](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/David05R/wetland-recognition_CO-afina)
 [![Share](https://img.shields.io/badge/share-0088CC?logo=telegram&logoColor=white)](https://t.me/share/url?url=https://github.com/David05R/wetland-recognition_CO-afina&text=Check%20out%20this%20project%20on%20GitHub)
 
-<a target="_blank" href="https://colab.research.google.com/drive/1Xt5hMikcDaybIifIVriegwWJnDyPF7O3">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
 :star: Star us on GitHub — it motivates us a lot!
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -70,15 +64,34 @@
         <li><a href="#built-with">Objetivo general</a></li>
         <li><a href="#built-with">Objetivos especificos</a></li>
         <li><a href="#built-with">Funcionalidades</a></li>
+        <li><a href="#built-with">Detalles de Implementación</a></li>
         <li><a href="#built-with">Creado con</a></li>
       </ul>
     </li>
     <li>
+      <a href="#getting-started">Información Técnica sobre Humedales y Sitios Ramsar</a>
+      <ul>
+        <li><a href="#prerequisites">Humedales</a></li>
+        <li><a href="#installation">Sitios Ramsar</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Datasets Utilizados</a>
+    </li>
+    <li>
+      <a href="#getting-started">Requisitos previos</a>
+    </li>
+    <li>
       <a href="#getting-started">Primeros pasos</a>
       <ul>
-        <li><a href="#prerequisites">Prerrequisitos</a></li>
         <li><a href="#installation">Instalación</a></li>
       </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Despliegue en Vercel</a>
+    </li>
+    <li>
+      <a href="#getting-started">Aprende más</a>
     </li>
     <li><a href="#contributing">Contribuir</a></li>
     <li><a href="#contact">Contacto</a></li>
@@ -121,6 +134,12 @@ Este proyecto utiliza Next.js para el frontend y Python para el procesamiento de
 Los timelapses se generan utilizando la API de Google Earth Engine, procesando imágenes satelitales históricas para mostrar los cambios en los humedales a lo largo del tiempo.
 
 Para más detalles sobre la implementación, consulte los archivos de código fuente en el repositorio.
+
+Notebook data cleaning:
+
+<a target="_blank" href="https://colab.research.google.com/drive/1Xt5hMikcDaybIifIVriegwWJnDyPF7O3">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ### Creado con
 
@@ -173,6 +192,13 @@ En Colombia, según los datos proporcionados por la pagina de [Ramsar Sites Info
 | Departamentos y Ciudades de Colombia           | https://departamentosdecolombia.com/colombia/superficie/     | Información sobre departamentos, ciudades, zonas rurales y urbanas de Colombia                                        |
 | Google Earth Engine Timelapse                | https://earthengine.google.com/timelapse/  |             Earth Engine combina un catálogo de varios petabytes de imágenes de satélite y conjuntos de datos geoespaciales con capacidades de análisis a escala planetaria                                                  |
 
+## Requisitos previos
+
+Antes de empezar, comprueba que cumples los siguientes requisitos:
+
+- Tienes instalada versiónes recientes de `< Next.js / React.js >`.
+- Dispones de un equipo `<Windows / Linux / Mac>`.
+- Ha leído la `< https://nextjs.org/docs/ >`.
 
 ## Primeros pasos
 
