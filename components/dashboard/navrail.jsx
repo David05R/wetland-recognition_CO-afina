@@ -13,14 +13,6 @@ const NavRail = () => {
             </span>
           </div>
         </Link>
-        <Link href={`/overview`}>
-          <div className="flex flex-col w-full h-fit justify-center items-center p-3">
-            <div className="w-14 h-8 bg-secondary-container-dark mb-1 rounded-full" />
-            <span className="text-sm text-center text-on-surface-dark">
-              Overview
-            </span>
-          </div>
-        </Link>
       </div>
     </div>
   );
