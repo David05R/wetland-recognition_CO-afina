@@ -76,11 +76,9 @@
       </ul>
     </li>
     <li>
-      <a href="Impact-y-Estrategia-de-Conservación">Impacto y Estrategia de Conservación</a>
+      <a href="Impacto-y-Estrategia-de-Conservación">Impacto y Estrategia de Conservación</a>
       <ul>
         <li><a href="#Empoderamiento-Ciudadano">Empoderamiento Ciudadano</a></li>
-        <li><a href="#Incidencia-en-Políticas-Públicas">Incidencia en Políticas Públicas</a></li>
-        <li><a href="#Monitoreo-y-Seguimiento">Monitoreo y Seguimiento</a></li>
       </ul>
     </li>
     <li>
@@ -194,18 +192,16 @@ En Colombia, según los datos proporcionados por la pagina de [Ramsar Sites Info
 Nuestra aplicación no solo proporciona información, sino que también impulsa una estrategia integral para la preservación de los sitios RAMSAR en Colombia:
 
 ### Empoderamiento Ciudadano
-- *Educación Interactiva*: A través de visualizaciones dinámicas y timelapses, los usuarios pueden comprender de manera tangible los cambios en los humedales a lo largo del tiempo.
-- *Reportes Ciudadanos*: Implementamos un sistema donde los usuarios pueden reportar cambios observados o amenazas potenciales a los sitios RAMSAR.
-- *Comunidad de Conservación*: Creamos espacios virtuales para que los ciudadanos compartan experiencias, organicen actividades de limpieza y conservación.
+
+Fomentamos una eduacación interactiva para que, a través de visualizaciones dinámicas y timelapses, los usuarios puedan comprender de manera tangible los cambios en los humedales a lo largo del tiempo.
 
 ### Incidencia en Políticas Públicas
-- *Datos para la Toma de Decisiones*: Proporcionamos información actualizada y visual que puede ser utilizada por legisladores y funcionarios para fundamentar políticas de conservación.
-- *Alertas Tempranas*: El sistema de reportes ciudadanos sirve como mecanismo de alerta temprana para las autoridades ambientales.
-- *Colaboración Interinstitucional*: Facilitamos la conexión entre comunidades locales, instituciones académicas y entidades gubernamentales para una gestión más efectiva de los humedales.
+
+Proporcionamos información actualizada y visual que puede ser utilizada por legisladores y funcionarios para fundamentar políticas de conservación. De esta forma se pueden hacer alertas tempranas gracias y a la visualización actualizada de los humendales, facilitando la conexión entre comunidades locales, instituciones académicas y entidades gubernamentales para una gestión más efectiva de los humedales.
 
 ### Monitoreo y Seguimiento
-- *Indicadores de Salud de Humedales*: Desarrollamos métricas fáciles de entender que muestran el estado actual de cada sitio RAMSAR.
-- *Seguimiento a Largo Plazo*: Los timelapses y datos históricos permiten un seguimiento continuo de la evolución de estos ecosistemas.
+
+Desarrollamos métricas fáciles de entender que muestran el estado actual de cada sitio RAMSAR. Gracias a los timelapses y datos históricos permiten un seguimiento continuo de la evolución de estos ecosistemas.
 
 ## Datasets Utilizados
 
