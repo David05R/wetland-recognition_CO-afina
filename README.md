@@ -18,7 +18,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Github contributors](https://img.shields.io/github/contributors/David05R/wetland-recognition_CO-afina)](#)
+
 [![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
 [![CPU](https://img.shields.io/badge/CPU-x86%2C%20x64%2C%20ARM%2C%20ARM64-FF8C00)](https://docs.abblix.com/docs/technical-requirements)
 [![GitHub release date](https://img.shields.io/github/release-date/David05R/wetland-recognition_CO-afina)](#)
