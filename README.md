@@ -125,7 +125,7 @@ Generar conciencia ciudadana sobre los humedales en Colombia y los factores de r
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Detalles de Implementación
 
@@ -149,7 +149,7 @@ Notebook data cleaning:
 * ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Información Técnica sobre Humedales y Sitios Ramsar
 
@@ -220,7 +220,7 @@ Puede empezar a editar la página modificando `app/page.js`. La página se actua
 
 Este proyecto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para optimizar y cargar automáticamente Inter, una fuente personalizada de Google.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Despliegue en Vercel
 
@@ -234,7 +234,7 @@ Para saber más sobre Next.js, eche un vistazo a los siguientes recursos:
 - [Next.js Documentation](https://nextjs.org/docs) - conozca las características y la API de Next.js.
 - [Learn Next.js](https://nextjs.org/learn) - un tutorial interactivo de Next.js.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- CONTRIBUTING -->
@@ -251,7 +251,7 @@ No olvides darle una estrella al proyecto ⭐. Gracias de nuevo. :raised_hands:
 4. Haga un push a la rama(`git push origin feature/AmazingFeature`)
 5. Abrir una Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contacto
@@ -263,7 +263,7 @@ Para más detalles no dude en ponerse en contacto con nosotros. Estamos a su dis
 * [📧](#) dvjruiz2003ybsj@gmail.com
 * [📧](#) isabellaarrietag@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- ACKNOWLEDGMENTS -->
