@@ -37,6 +37,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+:star: Star us on GitHub — it motivates us a lot!
+
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -121,6 +124,48 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Información Técnica sobre Humedales y Sitios Ramsar
+
+### Humedales
+
+Los humedales son ecosistemas que permanecen en condiciones de inundación o saturación por agua durante períodos considerables. Se caracterizan por:
+
+1. Hidrología: Presencia de agua en la superficie o cerca de ella, de forma permanente o temporal.
+2. Suelos: Suelos hídricos que se desarrollan en condiciones de saturación.
+3. Vegetación: Plantas hidrófilas adaptadas a vivir en ambientes acuáticos o de suelos saturados.
+
+Los humedales desempeñan funciones ecológicas cruciales:
+- Regulación hídrica
+- Hábitat para biodiversidad
+- Mitigación del cambio climático (sumideros de carbono)
+- Protección contra inundaciones y erosión costera
+
+### Sitios Ramsar
+
+Los Sitios Ramsar son humedales de importancia internacional, designados bajo la Convención de Ramsar sobre los Humedales, un tratado intergubernamental adoptado en 1971. Un sitio Ramsar debe cumplir al menos uno de los nueve criterios de importancia internacional:
+
+1. Contiene un ejemplo representativo, raro o único de un tipo de humedal natural o casi natural en la región biogeográfica apropiada.
+2. Sustenta especies vulnerables, en peligro o en peligro crítico, o comunidades ecológicas amenazadas.
+3. Sustenta poblaciones de especies importantes para mantener la diversidad biológica de una región biogeográfica determinada.
+4. Sustenta especies en una etapa crítica de su ciclo biológico o les ofrece refugio en condiciones adversas.
+5. Sustenta de manera regular una población de 20,000 o más aves acuáticas.
+6. Sustenta de manera regular el 1% de los individuos de una población de una especie o subespecie de aves acuáticas.
+7. Sustenta una proporción significativa de subespecies, especies o familias de peces autóctonas, etapas del ciclo biológico, interacciones de especies y/o poblaciones representativas de los beneficios/valores de los humedales.
+8. Es una fuente de alimentación importante para peces, zona de desove, área de desarrollo y crecimiento y/o ruta migratoria de la que dependen las existencias de peces dentro o fuera del humedal.
+9. Sustenta habitualmente el 1% de los individuos de la población de una especie o subespecie dependiente de los humedales que sea una especie animal no aviaria.
+
+En Colombia, según los datos proporcionados por la pagina de [Ramsar Sites Information Service](https://rsis.ramsar.org), hay 11 sitios Ramsar que cubren un área total de 936,441.99 hectáreas.
+
+## Datasets Utilizados
+
+| Data                       | URL                | Description                                                                 |
+| -------------------------- | ------------------ | --------------------------------------------------------------------------- |
+| Sitios Ramsar en el mundo               | https://rsis.ramsar.org/ | Base de dato para obtener información sobre humedales y sitios ramsar en el mundo                                                           |
+| Geoportal del DANE                | https://geoportal.dane.gov.co/geovisores/sociedad/cnpv-2018/ |  Entidad responsable de la planeación, levantamiento, procesamiento, análisis y difusión de las estadísticas oficiales de Colombia.                       |
+| Departamentos y Ciudades de Colombia           | https://departamentosdecolombia.com/colombia/superficie/     | Información sobre departamentos, ciudades, zonas rurales y urbanas de Colombia                                        |
+| Google Earth Engine Timelapse                | https://earthengine.google.com/timelapse/  |             Earth Engine combina un catálogo de varios petabytes de imágenes de satélite y conjuntos de datos geoespaciales con capacidades de análisis a escala planetaria                                                  |
+
+
 ## Primeros pasos
 
 Primero, ejecutar el servidor de desarrollo:
@@ -142,6 +187,7 @@ Puede empezar a editar la página modificando `app/page.js`. La página se actua
 Este proyecto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para optimizar y cargar automáticamente Inter, una fuente personalizada de Google.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Aprende más
 
@@ -188,12 +234,13 @@ Para más detalles no dude en ponerse en contacto con nosotros. Estamos a su dis
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Agradecimientos
+## Agradecimientos 
 
-* [](#) 
-* [📧](#) 
-* [📧](#) 
-* [📧](#) 
+* [Ramsar Sites Information Service](https://rsis.ramsar.org/) por los datos de los sitios Ramsar.
+* [DANE](https://www.dane.gov.co/) por los datos demográficos y geoespaciales de Colombia.
+* [Google Earth Engine](https://earthengine.google.com/) por la plataforma de procesamiento de imágenes satelitales
+* [CoAfina 2024](https://laconga.redclara.net/hackathon/#/) y a los retadores que propusieron el reto por la oportunidad que nos dan al participar en este evento
+* Todos los contribuyentes que han participado en este proyecto.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
