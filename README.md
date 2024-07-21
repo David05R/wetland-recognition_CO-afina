@@ -114,6 +114,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Detalles de Implementación
+
+Este proyecto utiliza Next.js para el frontend y Python para el procesamiento de datos y la generación de timelapses. La clasificación de humedales se realiza utilizando información tomada y analizada de los sitios web mencionados y la visualización de mapas se implementa con React.js.
+
+Los timelapses se generan utilizando la API de Google Earth Engine, procesando imágenes satelitales históricas para mostrar los cambios en los humedales a lo largo del tiempo.
+
+Para más detalles sobre la implementación, consulte los archivos de código fuente en el repositorio.
+
 ### Creado con
 
 * [![Next][Next.js]][Next-url]
