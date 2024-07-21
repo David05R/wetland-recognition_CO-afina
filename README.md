@@ -262,6 +262,7 @@ Para más detalles no dude en ponerse en contacto con nosotros. Estamos a su dis
 * [📧](#) herreraacevedodl@gmail.com
 * [📧](#) dvjruiz2003ybsj@gmail.com
 * [📧](#) isabellaarrietag@gmail.com
+* [📧](#) Vizcainoadrian2003@gmail.com
 
 
 
