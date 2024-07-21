@@ -79,6 +79,8 @@
       <a href="Impacto-y-Estrategia-de-Conservación">Impacto y Estrategia de Conservación</a>
       <ul>
         <li><a href="#Empoderamiento-Ciudadano">Empoderamiento Ciudadano</a></li>
+        <li><a href="#Incidencia-en-Políticas-Públicas">Incidencia en Políticas Públicas</a></li>
+        <li><a href="#Monitoreo-y-Seguimiento">Monitoreo-y-Seguimiento</a></li>
       </ul>
     </li>
     <li>
