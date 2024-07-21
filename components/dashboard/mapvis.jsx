@@ -4,7 +4,7 @@ import Map from "react-map-gl";
 
 const MapVis = ({ view }) => {
   return (
-    <div className="w-full h-[50svh] rounded-2xl overflow-hidden">
+    <div className="w-full h-full rounded-2xl overflow-hidden">
       {view === "Navigation" ? (
         <div id="naviView" className="w-full h-full">
           <Map
