@@ -46,30 +46,27 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre el proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Creado con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Primeros pasos</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Prerrequisitos</a></li>
+        <li><a href="#installation">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contributing">Contribuir</a></li>
+    <li><a href="#contact">Contacto</a></li>
+    <li><a href="#acknowledgments">Agradecimientos</a></li>
   </ol>
 </details>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+##  Sobre el proyecto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -93,7 +90,9 @@ Generar conciencia ciudadana sobre los humedales en Colombia y los factores de r
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### Built With
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Creado con
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -101,10 +100,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 * ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
+## Primeros pasos
 
-First, run the development server:
+Primero, ejecutar el servidor de desarrollo:
 
 ```bash
 npm run dev
@@ -116,55 +116,44 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrir [http://localhost:3000](http://localhost:3000) con tu buscador para ver los resultados.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Puede empezar a editar la página modificando `app/page.js`. La página se actualiza automáticamente a medida que editas el archivo.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+Este proyecto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para optimizar y cargar automáticamente Inter, una fuente personalizada de Google.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Para saber más sobre Next.js, eche un vistazo a los siguientes recursos:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js Documentation](https://nextjs.org/docs) - conozca las características y la API de Next.js.
+- [Learn Next.js](https://nextjs.org/learn) - un tutorial interactivo de Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será **muy apreciada**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Si tiene alguna sugerencia que pueda mejorar esto, por favor haga un fork del repositorio y cree un pull request. También puedes abrir una incidencia con la etiqueta «enhancement».
+No olvides darle una estrella al proyecto ⭐. Gracias de nuevo. :raised_hands:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork al proyecto (https://github.com/David05R/wetland-recognition_CO-afina)
+2. Cree su rama de funciones (`git checkout -b feature/AmazingFeature`)
+3. Confirme sus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Haga un push a la rama(`git push origin feature/AmazingFeature`)
+5. Abrir una Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+La forma más sencilla de desplegar la aplicación Next.js es utilizar el módulo [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) de los creadores de Next.js.
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -173,7 +162,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 * []()
 * []()
 * []()
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
