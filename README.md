@@ -35,7 +35,7 @@
   <p align="center">
     Descripción:
     <br />
-    <a href="https://docs.google.com/presentation/d/16weLUhh8QKx_lN8MphkURAA6tc8OO8Zn/edit#slide=id.p12"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.google.com/presentation/d/16weLUhh8QKx_lN8MphkURAA6tc8OO8Zn/edit#slide=id.p12"><strong>Explorar los documentos»</strong></a>
     <br />
     <br />
   </p>
@@ -43,7 +43,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de contenidos</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
