@@ -23,7 +23,7 @@ const MapVis = ({ view }) => {
           key="timelapse-iframe"
           width="100%"
           height="100%"
-          src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=61.11555,-147.13342,9.424,latLng&t=0.03&ps=50&bt=19840101&et=20221231"
+          src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=4.883333,-77.366667,2000,latLng&t=0.03&ps=50&bt=19840101&et=20221231"
           allowFullScreen
         />
       )}
