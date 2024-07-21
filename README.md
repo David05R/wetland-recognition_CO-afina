@@ -76,6 +76,14 @@
       </ul>
     </li>
     <li>
+      <a href="Impact-y-Estrategia-de-Conservación">Impacto y Estrategia de Conservación</a>
+      <ul>
+        <li><a href="#Empoderamiento-Ciudadano">Empoderamiento Ciudadano</a></li>
+        <li><a href="#Incidencia-en-Políticas-Públicas">Incidencia en Políticas Públicas</a></li>
+        <li><a href="#Monitoreo-y-Seguimiento">Monitoreo y Seguimiento</a></li>
+      </ul>
+    </li>
+    <li>
       <a href="#datasets-utilizados">Datasets Utilizados</a>
     </li>
     <li>
@@ -124,8 +132,6 @@ Generar conciencia ciudadana sobre los humedales en Colombia y los factores de r
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-
 
 ### Detalles de Implementación
 
@@ -182,6 +188,24 @@ Los Sitios Ramsar son humedales de importancia internacional, designados bajo la
 9. Sustenta habitualmente el 1% de los individuos de la población de una especie o subespecie dependiente de los humedales que sea una especie animal no aviaria.
 
 En Colombia, según los datos proporcionados por la pagina de [Ramsar Sites Information Service](https://rsis.ramsar.org), hay 11 sitios Ramsar que cubren un área total de 936,441.99 hectáreas.
+
+## Impacto y Estrategia de Conservación
+
+Nuestra aplicación no solo proporciona información, sino que también impulsa una estrategia integral para la preservación de los sitios RAMSAR en Colombia:
+
+### Empoderamiento Ciudadano
+- *Educación Interactiva*: A través de visualizaciones dinámicas y timelapses, los usuarios pueden comprender de manera tangible los cambios en los humedales a lo largo del tiempo.
+- *Reportes Ciudadanos*: Implementamos un sistema donde los usuarios pueden reportar cambios observados o amenazas potenciales a los sitios RAMSAR.
+- *Comunidad de Conservación*: Creamos espacios virtuales para que los ciudadanos compartan experiencias, organicen actividades de limpieza y conservación.
+
+### Incidencia en Políticas Públicas
+- *Datos para la Toma de Decisiones*: Proporcionamos información actualizada y visual que puede ser utilizada por legisladores y funcionarios para fundamentar políticas de conservación.
+- *Alertas Tempranas*: El sistema de reportes ciudadanos sirve como mecanismo de alerta temprana para las autoridades ambientales.
+- *Colaboración Interinstitucional*: Facilitamos la conexión entre comunidades locales, instituciones académicas y entidades gubernamentales para una gestión más efectiva de los humedales.
+
+### Monitoreo y Seguimiento
+- *Indicadores de Salud de Humedales*: Desarrollamos métricas fáciles de entender que muestran el estado actual de cada sitio RAMSAR.
+- *Seguimiento a Largo Plazo*: Los timelapses y datos históricos permiten un seguimiento continuo de la evolución de estos ecosistemas.
 
 ## Datasets Utilizados
 
