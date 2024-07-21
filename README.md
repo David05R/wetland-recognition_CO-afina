@@ -58,14 +58,14 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre el proyecto</a>
+      <a href="#sobre-el-proyecto">Sobre el proyecto</a>
       <ul>
-        <li><a href="#built-with">Objetivos del proyecto</a></li>
-        <li><a href="#built-with">Objetivo general</a></li>
-        <li><a href="#built-with">Objetivos especificos</a></li>
-        <li><a href="#built-with">Funcionalidades</a></li>
-        <li><a href="#built-with">Detalles de Implementación</a></li>
-        <li><a href="#built-with">Creado con</a></li>
+        <li><a href="#objetivos-del-proyecto">Objetivos del proyecto</a></li>
+        <li><a href="#objetivo-general">Objetivo general</a></li>
+        <li><a href="#objetivos-especificos">Objetivos especificos</a></li>
+        <li><a href="#funcionalidades">Funcionalidades</a></li>
+        <li><a href="#detalles-de-implementacion">Detalles de Implementación</a></li>
+        <li><a href="#creado-con">Creado con</a></li>
       </ul>
     </li>
     <li>
