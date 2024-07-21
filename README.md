@@ -155,8 +155,6 @@ Notebook data cleaning:
 * ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-
 ## Información Técnica sobre Humedales y Sitios Ramsar
 
 ### Humedales
@@ -199,7 +197,7 @@ Fomentamos una eduacación interactiva para que, a través de visualizaciones di
 
 ### Incidencia en Políticas Públicas
 
-Proporcionamos información actualizada y visual que puede ser utilizada por legisladores y funcionarios para fundamentar políticas de conservación. De esta forma se pueden hacer alertas tempranas gracias y a la visualización actualizada de los humendales, facilitando la conexión entre comunidades locales, instituciones académicas y entidades gubernamentales para una gestión más efectiva de los humedales.
+Proporcionamos información actualizada y visual que puede ser utilizada por legisladores y funcionarios para fundamentar políticas de conservación. De esta forma se pueden hacer alertas tempranas gracias a la visualización actualizada de los humendales, facilitando la conexión entre comunidades locales, instituciones académicas y entidades gubernamentales para una gestión más efectiva.
 
 ### Monitoreo y Seguimiento
 
@@ -242,12 +240,9 @@ Puede empezar a editar la página modificando `app/page.js`. La página se actua
 
 Este proyecto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para optimizar y cargar automáticamente Inter, una fuente personalizada de Google.
 
-
-
 ## Despliegue en Vercel
 
 La forma más sencilla de desplegar la aplicación Next.js es utilizar el módulo [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) de los creadores de Next.js.
-
 
 ## Aprende más
 
@@ -255,9 +250,6 @@ Para saber más sobre Next.js, eche un vistazo a los siguientes recursos:
 
 - [Next.js Documentation](https://nextjs.org/docs) - conozca las características y la API de Next.js.
 - [Learn Next.js](https://nextjs.org/learn) - un tutorial interactivo de Next.js.
-
-
-
 
 <!-- CONTRIBUTING -->
 ## Contribuciones
@@ -273,8 +265,6 @@ No olvides darle una estrella al proyecto ⭐. Gracias de nuevo. :raised_hands:
 4. Haga un push a la rama(`git push origin feature/AmazingFeature`)
 5. Abrir una Pull Request
 
-
-
 <!-- CONTACT -->
 ## Contacto
 
@@ -285,9 +275,6 @@ Para más detalles no dude en ponerse en contacto con nosotros. Estamos a su dis
 * [📧](#) dvjruiz2003ybsj@gmail.com
 * [📧](#) isabellaarrietag@gmail.com
 * [📧](#) Vizcainoadrian2003@gmail.com
-
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Agradecimientos 
