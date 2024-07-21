@@ -47,8 +47,9 @@
   <p align="center">
     Descripción:
     <br />
-    <a href="https://docs.google.com/presentation/d/16weLUhh8QKx_lN8MphkURAA6tc8OO8Zn/edit#slide=id.p12"><strong>Explorar los documentos»</strong></a>
+    <a href="https://docs.google.com/presentation/d/16weLUhh8QKx_lN8MphkURAA6tc8OO8Zn/edit#slide=id.p12"><strong>Explorar los documentos 📰</strong></a>
     <br />
+    <a href="https://wetland-io.vercel.app/"><strong>Aplicación web Wetland.io 🖥️</strong></a>
     <br />
   </p>
 </div>
