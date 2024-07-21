@@ -222,6 +222,10 @@ Este proyecto usa [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Despliegue en Vercel
+
+La forma más sencilla de desplegar la aplicación Next.js es utilizar el módulo [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) de los creadores de Next.js.
+
 
 ## Aprende más
 
@@ -248,11 +252,6 @@ No olvides darle una estrella al proyecto ⭐. Gracias de nuevo. :raised_hands:
 5. Abrir una Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Despliegue en Vercel
-
-La forma más sencilla de desplegar la aplicación Next.js es utilizar el módulo [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) de los creadores de Next.js.
 
 <!-- CONTACT -->
 ## Contacto
