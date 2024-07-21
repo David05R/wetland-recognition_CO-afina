@@ -27,7 +27,11 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/David05R/wetland-recognition_CO-afina)](#)
 [![GitHub forks](https://img.shields.io/github/forks/David05R/wetland-recognition_CO-afina)](#)
 
-
+[![Share](https://img.shields.io/badge/share-000000?logo=x&logoColor=white)](https://x.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/David05R/wetland-recognition_CO-afina%20%23OpenIDConnect%20%23Security%20%23Authentication)
+[![Share](https://img.shields.io/badge/share-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/David05R/wetland-recognition_CO-afina)
+[![Share](https://img.shields.io/badge/share-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/David05R/wetland-recognition_CO-afina)
+[![Share](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/submit?title=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/David05R/wetland-recognition_CO-afina)
+[![Share](https://img.shields.io/badge/share-0088CC?logo=telegram&logoColor=white)](https://t.me/share/url?url=https://github.com/David05R/wetland-recognition_CO-afina&text=Check%20out%20this%20project%20on%20GitHub)
 
 <a target="_blank" href="https://colab.research.google.com/drive/1Xt5hMikcDaybIifIVriegwWJnDyPF7O3">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -38,7 +42,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="logo.png" alt="Logo" width="100" height="100">
+    <img src="logo.png" alt="Logo" width="180" height="180">
   </a>
 
 <h3 align="center">Reconocimiento Ciudadano de las Transformaciones de Humedales en Colombia</h3>
@@ -59,6 +63,10 @@
     <li>
       <a href="#about-the-project">Sobre el proyecto</a>
       <ul>
+        <li><a href="#built-with">Objetivos del proyecto</a></li>
+        <li><a href="#built-with">Objetivo general</a></li>
+        <li><a href="#built-with">Objetivos especificos</a></li>
+        <li><a href="#built-with">Funcionalidades</a></li>
         <li><a href="#built-with">Creado con</a></li>
       </ul>
     </li>
@@ -83,7 +91,7 @@
 
 Este proyecto tiene como objetivo generar conciencia ciudadana sobre los humedales en Colombia, sus posibles cambios y los factores de riesgo en su preservación. La aplicación digital permite la identificación de estas zonas, su ubicación respecto a áreas de actividad humana o zonas de protección ambiental y la visualización de su transformación en el tiempo.
 
-## Objetivos del Proyecto
+### Objetivos del Proyecto
 ### Objetivo General
 Generar conciencia ciudadana sobre los humedales en Colombia y los factores de riesgo en su preservación mediante una herramienta amigable.
 
@@ -166,14 +174,26 @@ No olvides darle una estrella al proyecto ⭐. Gracias de nuevo. :raised_hands:
 
 La forma más sencilla de desplegar la aplicación Next.js es utilizar el módulo [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) de los creadores de Next.js.
 
+<!-- CONTACT -->
+## Contacto
+
+Para más detalles no dude en ponerse en contacto con nosotros. Estamos a su disposición para ayudarle y responder a sus preguntas. A continuación se indican las mejores formas de ponerse en contacto con nuestro equipo:
+
+* [📧](#) santiagoqp3103@gmail.com
+* [📧](#) herreraacevedodl@gmail.com
+* [📧](#) dvjruiz2003ybsj@gmail.com
+* [📧](#) isabellaarrietag@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ACKNOWLEDGMENTS -->
 ## Agradecimientos
 
-* []()
-* []()
-* []()
-
+* [](#) 
+* [📧](#) 
+* [📧](#) 
+* [📧](#) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
