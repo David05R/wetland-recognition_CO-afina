@@ -62,40 +62,40 @@
       <ul>
         <li><a href="#objetivos-del-proyecto">Objetivos del proyecto</a></li>
         <li><a href="#objetivo-general">Objetivo general</a></li>
-        <li><a href="#objetivos-especificos">Objetivos especificos</a></li>
+        <li><a href="#objetivos-específicos">Objetivos especificos</a></li>
         <li><a href="#funcionalidades">Funcionalidades</a></li>
-        <li><a href="#detalles-de-implementacion">Detalles de Implementación</a></li>
+        <li><a href="#detalles-de-implementación">Detalles de Implementación</a></li>
         <li><a href="#creado-con">Creado con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Información Técnica sobre Humedales y Sitios Ramsar</a>
+      <a href="#Información-Técnica-sobre-Humedales-y-Sitios-Ramsar">Información Técnica sobre Humedales y Sitios Ramsar</a>
       <ul>
-        <li><a href="#prerequisites">Humedales</a></li>
-        <li><a href="#installation">Sitios Ramsar</a></li>
+        <li><a href="#humedales">Humedales</a></li>
+        <li><a href="#sitios-ramsar">Sitios Ramsar</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Datasets Utilizados</a>
+      <a href="#datasets-utilizados">Datasets Utilizados</a>
     </li>
     <li>
-      <a href="#getting-started">Requisitos previos</a>
+      <a href="#requisitos-previos">Requisitos previos</a>
     </li>
     <li>
-      <a href="#getting-started">Primeros pasos</a>
+      <a href="#primeros-pasos">Primeros pasos</a>
       <ul>
-        <li><a href="#installation">Instalación</a></li>
+        <li><a href="#instalación">Instalación</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Despliegue en Vercel</a>
+      <a href="#despliegue-en-vercel">Despliegue en Vercel</a>
     </li>
     <li>
-      <a href="#getting-started">Aprende más</a>
+      <a href="#aprende-más">Aprende más</a>
     </li>
-    <li><a href="#contributing">Contribuir</a></li>
-    <li><a href="#contact">Contacto</a></li>
-    <li><a href="#acknowledgments">Agradecimientos</a></li>
+    <li><a href="#contribuir">Contribuir</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#agradecimientos">Agradecimientos</a></li>
   </ol>
 </details>
 
