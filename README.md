@@ -18,7 +18,18 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<a target="_blank" href="https://colab.research.google.com/drive/1Qr7UYfYlf_8-lDZDwB7_0aTX9G-0iMki?usp=sharing">
+[![Github contributors](https://img.shields.io/github/contributors/David05R/wetland-recognition_CO-afina)](#)
+[![OS](https://img.shields.io/badge/OS-linux%2C%20windows%2C%20macOS-0078D4)](https://docs.abblix.com/docs/technical-requirements)
+[![CPU](https://img.shields.io/badge/CPU-x86%2C%20x64%2C%20ARM%2C%20ARM64-FF8C00)](https://docs.abblix.com/docs/technical-requirements)
+[![GitHub release date](https://img.shields.io/github/release-date/David05R/wetland-recognition_CO-afina)](#)
+[![GitHub last commit](https://img.shields.io/github/last-commit/David05R/wetland-recognition_CO-afina)](#)
+[![Free](https://img.shields.io/badge/free_for_non_commercial_use-brightgreen)](#-license)
+[![GitHub repo size](https://img.shields.io/github/repo-size/David05R/wetland-recognition_CO-afina)](#)
+[![GitHub forks](https://img.shields.io/github/forks/David05R/wetland-recognition_CO-afina)](#)
+
+
+
+<a target="_blank" href="https://colab.research.google.com/drive/1Xt5hMikcDaybIifIVriegwWJnDyPF7O3">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -124,7 +135,7 @@ Este proyecto usa [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Learn More
+## Aprende más
 
 Para saber más sobre Next.js, eche un vistazo a los siguientes recursos:
 
@@ -135,7 +146,7 @@ Para saber más sobre Next.js, eche un vistazo a los siguientes recursos:
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuciones
 
 Las contribuciones son lo que hace que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será **muy apreciada**.
 
@@ -151,13 +162,13 @@ No olvides darle una estrella al proyecto ⭐. Gracias de nuevo. :raised_hands:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Deploy on Vercel
+## Despliegue en Vercel
 
 La forma más sencilla de desplegar la aplicación Next.js es utilizar el módulo [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) de los creadores de Next.js.
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Agradecimientos
 
 * []()
 * []()
